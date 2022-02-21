@@ -1,0 +1,22 @@
+1.Main method is used to execute the program without mainmethod we cannot run the program or call any methods
+2.control statements;
+if,switch,forloop,whileloop,dowhile loop,foreachloop,break,continue.
+3.Breakstatement is used to exits the whole loop
+continue statement is used to stop the current ieration and continue the next iteration.
+4.Array is a containerto store muliple datas of similar datatype
+ int[] t={1,2,3};
+ int[] t=new int[4];
+5.when we try to access greater or lesser than the length of the index it shows Arrayindex out of boundsexception.
+6.object syntax:
+Classname objectname=new Classname();
+7.variable is a container to store the value of defined datatype
+      int s=8;
+      int b=9;
+8.String is a sequence of character and it is non primitive datatype.
+9.Two ways of string;
+String name="Hema";
+String name=new("Hema");
+10.equals():
+ it compares the two string same or not
+==:
+it compares the index values in the string and arrays.
